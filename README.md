@@ -1,9 +1,20 @@
-# week1session1
+# Welcome to Python
 
-Know how to run a python file on your device.  There are 3 main ways - python, python3, and py  
 
-How to enter a terminal shell and how to exit the shell
+## Week 1 Session 1
+---
+### VS Code:
+- We will be using the terminal a lot during this stack
+- [Good Extensions to have](./vscode.md)
+- Mac vs Windows: There are a few differences.
 
-Mutable vs immutable
-
+### Tonights Agenda:
+- [Stack Calendar](https://docs.google.com/spreadsheets/d/1lJP-Bwgc1aDBEhkBt36kWFCTN2k4hKCSAuqHHejM_9s/edit#gid=2097812438)
+- [Assignments](https://docs.google.com/spreadsheets/d/1lJP-Bwgc1aDBEhkBt36kWFCTN2k4hKCSAuqHHejM_9s/edit#gid=2097812438)
+- [Discord](./images/discord.png)
+- [Zoom Etiquette](./images/zoom.png)
+- [Classroom Guidelines](./images/rules.png)
+- [20 Min Rule](./20min.md)
+- [Code - Repositories](./images/codeBase.png)
+- [Running Python Files](./images/runningPython.png)
 
