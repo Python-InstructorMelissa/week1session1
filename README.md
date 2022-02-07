@@ -17,4 +17,7 @@
 - [20 Min Rule](./20min.md)
 - [Code - Repositories](./images/codeBase.png)
 - [Running Python Files](./images/runningPython.png)
+- [Notes](https://hackmd.io/GQ6nAtnGR3y3YtLh_KfUDQ?view)
+- [Git Organization](https://github.com/Python-InstructorMelissa)
+- [Tonights Repo](https://github.com/Python-InstructorMelissa/week1session1)
 
