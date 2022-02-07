@@ -1,1 +1,10 @@
-
+# Good VS Code Extentions to install:
+![](./images/bracketPairColorizer.png)
+![](./images/indentRainbow.png)
+![](./images/prettierCodeFormatter.png)
+![](./images/python.png)
+![](./images/codeSpellChecker.png)
+![](./images/easyLess.png)
+![](./images/betterJinja.png)
+![](./images/jinja2SnippetKit.png)
+![](./images/mySQL.png)
